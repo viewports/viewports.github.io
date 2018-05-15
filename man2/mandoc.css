@@ -218,7 +218,7 @@ a.Ux { }
 		font-weight: normal;
 		font-family: monospace; }
 
-/* Viewport for small screen devices */
+/* small screen devices */
 @viewport { width: device-width; zoom: 1; }
 @-ms-viewport { width: device-width; zoom: 1; }
 @-o-viewport { width: device-width; zoom: 1; }
