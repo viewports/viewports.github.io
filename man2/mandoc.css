@@ -222,3 +222,4 @@ a.Ux { }
 @viewport { width: device-width; zoom: 1; }
 @-ms-viewport { width: device-width; zoom: 1; }
 @-o-viewport { width: device-width; zoom: 1; }
+@-webkit-viewport { width: device-width; zoom: 1; }
