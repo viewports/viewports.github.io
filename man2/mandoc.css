@@ -220,6 +220,6 @@ a.Ux { }
 
 /* Viewport for small screen devices */
 
-@viewport, @-ms-viewport, @-o-viewport { width: device-width; zoom: 1; }
+@viewport @-ms-viewport @-o-viewport { width: device-width; zoom: 1; }
 /*@-ms-viewport { width: device-width; zoom: 1; }
 @-o-viewport { width: device-width; zoom: 1; }/*
