@@ -14,5 +14,5 @@ Sample: http://ftp.openbsd.org/pub/OpenBSD/6.3/i386/
 # openbsd.org
 * http://www.openbsd.org/lyrics.html
 
-# narc.info: all pages
+# marc.info: all pages
 * https://marc.info
